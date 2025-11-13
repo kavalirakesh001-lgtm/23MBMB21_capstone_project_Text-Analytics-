@@ -1,0 +1,1001 @@
+query_id,search_query,search_count
+1,discount coupon,174
+2,discount coupon,420
+3,buy iphone,208
+4,track my order,14
+5,latest offers,261
+6,latest offers,346
+7,best deals,179
+8,buy iphone,409
+9,best deals,185
+10,track my order,15
+11,latest offers,164
+12,store location,473
+13,airpods price,29
+14,buy iphone,318
+15,buy iphone,92
+16,refund policy,357
+17,latest offers,329
+18,refund policy,493
+19,payment options,465
+20,airpods price,479
+21,buy iphone,51
+22,store location,40
+23,warranty details,266
+24,latest offers,124
+25,refund policy,354
+26,store location,228
+27,shipping time,33
+28,shipping time,393
+29,refund policy,223
+30,store location,56
+31,refund policy,169
+32,buy iphone,341
+33,refund policy,69
+34,emi availability,428
+35,shipping time,132
+36,refund policy,462
+37,shipping time,341
+38,refund policy,397
+39,shipping time,250
+40,buy iphone,149
+41,airpods price,417
+42,payment options,194
+43,shipping time,386
+44,store location,400
+45,store location,140
+46,best deals,127
+47,refund policy,34
+48,store location,21
+49,discount coupon,373
+50,store location,321
+51,best deals,350
+52,discount coupon,191
+53,warranty details,133
+54,airpods price,308
+55,buy iphone,131
+56,refund policy,313
+57,emi availability,477
+58,shipping time,123
+59,best deals,52
+60,airpods price,188
+61,airpods price,367
+62,store location,398
+63,emi availability,497
+64,customer support number,461
+65,best deals,464
+66,airpods price,59
+67,warranty details,14
+68,warranty details,377
+69,refund policy,437
+70,warranty details,398
+71,warranty details,350
+72,latest offers,222
+73,customer support number,216
+74,store location,118
+75,track my order,432
+76,emi availability,269
+77,buy iphone,15
+78,warranty details,296
+79,payment options,142
+80,shipping time,180
+81,refund policy,114
+82,discount coupon,99
+83,refund policy,147
+84,buy iphone,101
+85,warranty details,44
+86,shipping time,119
+87,emi availability,182
+88,warranty details,284
+89,airpods price,229
+90,latest offers,56
+91,best deals,415
+92,store location,67
+93,best deals,130
+94,latest offers,358
+95,payment options,339
+96,warranty details,188
+97,track my order,135
+98,airpods price,109
+99,discount coupon,371
+100,customer support number,482
+101,refund policy,68
+102,airpods price,433
+103,discount coupon,204
+104,emi availability,53
+105,refund policy,346
+106,customer support number,274
+107,track my order,104
+108,customer support number,420
+109,emi availability,358
+110,store location,263
+111,refund policy,48
+112,emi availability,412
+113,best deals,419
+114,store location,488
+115,track my order,434
+116,airpods price,283
+117,refund policy,80
+118,best deals,333
+119,payment options,350
+120,emi availability,177
+121,payment options,260
+122,warranty details,288
+123,buy iphone,376
+124,airpods price,445
+125,buy iphone,326
+126,store location,178
+127,airpods price,410
+128,refund policy,149
+129,payment options,32
+130,shipping time,480
+131,best deals,145
+132,discount coupon,180
+133,refund policy,264
+134,best deals,457
+135,emi availability,40
+136,airpods price,323
+137,latest offers,239
+138,warranty details,130
+139,latest offers,109
+140,track my order,249
+141,customer support number,46
+142,store location,151
+143,emi availability,334
+144,best deals,326
+145,airpods price,192
+146,track my order,396
+147,buy iphone,33
+148,track my order,293
+149,discount coupon,476
+150,latest offers,154
+151,discount coupon,399
+152,airpods price,445
+153,track my order,360
+154,refund policy,323
+155,buy iphone,277
+156,refund policy,214
+157,best deals,294
+158,emi availability,151
+159,emi availability,92
+160,latest offers,399
+161,shipping time,187
+162,emi availability,61
+163,shipping time,155
+164,track my order,211
+165,shipping time,30
+166,emi availability,253
+167,best deals,11
+168,payment options,339
+169,track my order,89
+170,discount coupon,168
+171,track my order,438
+172,buy iphone,401
+173,discount coupon,235
+174,customer support number,329
+175,payment options,331
+176,customer support number,379
+177,buy iphone,35
+178,track my order,206
+179,emi availability,170
+180,buy iphone,237
+181,store location,131
+182,track my order,332
+183,airpods price,139
+184,track my order,22
+185,discount coupon,393
+186,warranty details,256
+187,airpods price,139
+188,track my order,476
+189,shipping time,280
+190,payment options,377
+191,emi availability,32
+192,discount coupon,235
+193,shipping time,497
+194,warranty details,126
+195,airpods price,266
+196,track my order,461
+197,warranty details,377
+198,emi availability,12
+199,shipping time,137
+200,shipping time,264
+201,warranty details,344
+202,airpods price,319
+203,discount coupon,314
+204,emi availability,305
+205,warranty details,74
+206,refund policy,32
+207,buy iphone,139
+208,refund policy,205
+209,latest offers,209
+210,latest offers,47
+211,buy iphone,216
+212,discount coupon,251
+213,discount coupon,399
+214,store location,207
+215,buy iphone,216
+216,best deals,422
+217,airpods price,272
+218,buy iphone,482
+219,emi availability,223
+220,store location,26
+221,buy iphone,431
+222,track my order,411
+223,store location,285
+224,best deals,202
+225,store location,41
+226,store location,173
+227,payment options,332
+228,store location,438
+229,payment options,497
+230,payment options,25
+231,store location,358
+232,warranty details,17
+233,warranty details,229
+234,emi availability,409
+235,shipping time,103
+236,discount coupon,50
+237,discount coupon,165
+238,shipping time,113
+239,track my order,251
+240,best deals,56
+241,store location,202
+242,airpods price,333
+243,discount coupon,225
+244,discount coupon,411
+245,emi availability,240
+246,airpods price,378
+247,buy iphone,255
+248,track my order,426
+249,airpods price,457
+250,customer support number,285
+251,shipping time,259
+252,best deals,218
+253,track my order,179
+254,best deals,162
+255,store location,416
+256,airpods price,245
+257,customer support number,333
+258,emi availability,138
+259,warranty details,46
+260,payment options,64
+261,track my order,350
+262,customer support number,293
+263,customer support number,390
+264,track my order,333
+265,airpods price,12
+266,emi availability,149
+267,best deals,206
+268,track my order,309
+269,emi availability,86
+270,airpods price,94
+271,discount coupon,214
+272,track my order,92
+273,payment options,206
+274,latest offers,46
+275,buy iphone,234
+276,discount coupon,443
+277,warranty details,460
+278,refund policy,483
+279,airpods price,344
+280,airpods price,101
+281,store location,297
+282,payment options,390
+283,latest offers,251
+284,refund policy,429
+285,store location,165
+286,best deals,238
+287,shipping time,430
+288,customer support number,394
+289,latest offers,171
+290,track my order,193
+291,track my order,419
+292,payment options,434
+293,refund policy,148
+294,buy iphone,157
+295,emi availability,392
+296,customer support number,496
+297,discount coupon,62
+298,shipping time,440
+299,warranty details,272
+300,buy iphone,137
+301,track my order,135
+302,store location,275
+303,track my order,236
+304,best deals,214
+305,payment options,440
+306,airpods price,315
+307,payment options,188
+308,best deals,337
+309,store location,302
+310,best deals,485
+311,store location,186
+312,warranty details,27
+313,customer support number,241
+314,buy iphone,149
+315,warranty details,166
+316,discount coupon,219
+317,track my order,406
+318,emi availability,347
+319,track my order,359
+320,best deals,93
+321,buy iphone,164
+322,shipping time,265
+323,track my order,49
+324,latest offers,436
+325,emi availability,247
+326,payment options,75
+327,emi availability,441
+328,track my order,268
+329,payment options,144
+330,payment options,49
+331,customer support number,223
+332,best deals,77
+333,track my order,429
+334,discount coupon,490
+335,airpods price,333
+336,latest offers,197
+337,refund policy,192
+338,airpods price,115
+339,latest offers,409
+340,airpods price,103
+341,airpods price,172
+342,airpods price,328
+343,latest offers,474
+344,latest offers,18
+345,best deals,370
+346,payment options,452
+347,latest offers,167
+348,latest offers,309
+349,customer support number,199
+350,customer support number,210
+351,best deals,495
+352,track my order,461
+353,payment options,241
+354,best deals,354
+355,latest offers,158
+356,best deals,325
+357,best deals,220
+358,store location,213
+359,discount coupon,475
+360,track my order,487
+361,customer support number,385
+362,refund policy,70
+363,store location,357
+364,warranty details,195
+365,customer support number,16
+366,shipping time,135
+367,payment options,301
+368,best deals,34
+369,best deals,499
+370,buy iphone,351
+371,warranty details,458
+372,best deals,99
+373,payment options,125
+374,track my order,408
+375,payment options,426
+376,discount coupon,372
+377,latest offers,102
+378,store location,92
+379,refund policy,184
+380,payment options,390
+381,refund policy,261
+382,track my order,407
+383,buy iphone,450
+384,shipping time,347
+385,latest offers,302
+386,payment options,437
+387,emi availability,277
+388,refund policy,256
+389,customer support number,223
+390,store location,437
+391,latest offers,216
+392,track my order,457
+393,payment options,12
+394,track my order,150
+395,discount coupon,265
+396,payment options,385
+397,customer support number,160
+398,emi availability,36
+399,payment options,265
+400,customer support number,110
+401,shipping time,199
+402,discount coupon,322
+403,refund policy,17
+404,refund policy,364
+405,emi availability,205
+406,buy iphone,39
+407,refund policy,367
+408,best deals,435
+409,store location,120
+410,buy iphone,148
+411,best deals,270
+412,buy iphone,184
+413,discount coupon,192
+414,refund policy,407
+415,store location,148
+416,payment options,59
+417,discount coupon,448
+418,buy iphone,21
+419,warranty details,412
+420,discount coupon,291
+421,emi availability,378
+422,emi availability,423
+423,store location,265
+424,buy iphone,439
+425,discount coupon,119
+426,customer support number,462
+427,emi availability,303
+428,airpods price,338
+429,best deals,164
+430,track my order,132
+431,shipping time,327
+432,best deals,95
+433,discount coupon,63
+434,track my order,282
+435,buy iphone,297
+436,emi availability,46
+437,emi availability,352
+438,airpods price,176
+439,customer support number,494
+440,emi availability,328
+441,track my order,470
+442,track my order,91
+443,emi availability,498
+444,emi availability,189
+445,warranty details,93
+446,payment options,19
+447,best deals,210
+448,shipping time,108
+449,best deals,163
+450,shipping time,239
+451,track my order,489
+452,latest offers,430
+453,latest offers,148
+454,buy iphone,281
+455,airpods price,64
+456,shipping time,307
+457,buy iphone,142
+458,shipping time,339
+459,discount coupon,190
+460,store location,136
+461,shipping time,141
+462,buy iphone,327
+463,warranty details,396
+464,latest offers,33
+465,track my order,365
+466,shipping time,191
+467,payment options,460
+468,latest offers,466
+469,refund policy,97
+470,customer support number,245
+471,discount coupon,225
+472,refund policy,393
+473,payment options,333
+474,store location,279
+475,customer support number,219
+476,best deals,478
+477,warranty details,172
+478,discount coupon,137
+479,store location,38
+480,warranty details,404
+481,warranty details,86
+482,best deals,58
+483,airpods price,485
+484,warranty details,172
+485,emi availability,210
+486,track my order,452
+487,track my order,171
+488,latest offers,19
+489,store location,283
+490,shipping time,46
+491,discount coupon,133
+492,track my order,376
+493,payment options,64
+494,warranty details,381
+495,store location,168
+496,latest offers,134
+497,emi availability,211
+498,customer support number,430
+499,track my order,137
+500,warranty details,339
+501,payment options,442
+502,payment options,429
+503,payment options,285
+504,refund policy,460
+505,warranty details,107
+506,best deals,172
+507,customer support number,350
+508,discount coupon,311
+509,discount coupon,396
+510,best deals,42
+511,best deals,208
+512,buy iphone,466
+513,shipping time,386
+514,latest offers,292
+515,best deals,292
+516,buy iphone,143
+517,airpods price,468
+518,buy iphone,462
+519,best deals,244
+520,shipping time,229
+521,discount coupon,368
+522,refund policy,208
+523,payment options,52
+524,track my order,334
+525,customer support number,358
+526,track my order,321
+527,best deals,217
+528,warranty details,438
+529,airpods price,258
+530,store location,484
+531,airpods price,296
+532,emi availability,470
+533,latest offers,436
+534,customer support number,473
+535,customer support number,171
+536,emi availability,473
+537,buy iphone,352
+538,best deals,157
+539,best deals,86
+540,track my order,436
+541,warranty details,382
+542,payment options,50
+543,refund policy,111
+544,best deals,385
+545,payment options,328
+546,track my order,419
+547,refund policy,471
+548,refund policy,204
+549,track my order,33
+550,refund policy,107
+551,shipping time,241
+552,customer support number,168
+553,customer support number,81
+554,store location,46
+555,store location,472
+556,customer support number,423
+557,customer support number,260
+558,latest offers,172
+559,discount coupon,220
+560,best deals,28
+561,buy iphone,225
+562,discount coupon,56
+563,buy iphone,301
+564,store location,276
+565,discount coupon,296
+566,shipping time,488
+567,warranty details,124
+568,latest offers,323
+569,warranty details,129
+570,warranty details,487
+571,payment options,31
+572,discount coupon,396
+573,latest offers,183
+574,shipping time,378
+575,airpods price,306
+576,discount coupon,200
+577,customer support number,215
+578,airpods price,242
+579,refund policy,225
+580,payment options,283
+581,track my order,390
+582,shipping time,190
+583,customer support number,102
+584,warranty details,273
+585,buy iphone,258
+586,refund policy,95
+587,airpods price,384
+588,airpods price,495
+589,refund policy,207
+590,discount coupon,89
+591,payment options,362
+592,shipping time,34
+593,emi availability,227
+594,customer support number,199
+595,shipping time,452
+596,latest offers,458
+597,airpods price,373
+598,airpods price,274
+599,store location,272
+600,track my order,185
+601,discount coupon,220
+602,track my order,86
+603,payment options,119
+604,shipping time,70
+605,latest offers,406
+606,refund policy,62
+607,shipping time,240
+608,customer support number,23
+609,payment options,34
+610,track my order,434
+611,track my order,203
+612,shipping time,94
+613,best deals,59
+614,discount coupon,136
+615,store location,33
+616,customer support number,346
+617,customer support number,400
+618,discount coupon,178
+619,store location,410
+620,store location,244
+621,airpods price,216
+622,shipping time,172
+623,warranty details,68
+624,store location,321
+625,payment options,261
+626,warranty details,124
+627,shipping time,283
+628,discount coupon,282
+629,shipping time,403
+630,customer support number,43
+631,shipping time,278
+632,shipping time,100
+633,payment options,362
+634,track my order,40
+635,discount coupon,220
+636,discount coupon,470
+637,emi availability,467
+638,discount coupon,41
+639,track my order,359
+640,warranty details,129
+641,track my order,487
+642,airpods price,153
+643,buy iphone,329
+644,customer support number,129
+645,latest offers,410
+646,emi availability,144
+647,latest offers,188
+648,payment options,207
+649,store location,290
+650,best deals,470
+651,best deals,232
+652,refund policy,269
+653,latest offers,127
+654,refund policy,157
+655,shipping time,170
+656,track my order,474
+657,shipping time,458
+658,refund policy,306
+659,emi availability,67
+660,airpods price,344
+661,discount coupon,224
+662,track my order,113
+663,shipping time,356
+664,store location,199
+665,warranty details,106
+666,track my order,152
+667,warranty details,365
+668,latest offers,372
+669,customer support number,335
+670,payment options,204
+671,warranty details,368
+672,emi availability,34
+673,latest offers,312
+674,track my order,242
+675,payment options,228
+676,best deals,256
+677,best deals,371
+678,airpods price,426
+679,emi availability,131
+680,shipping time,208
+681,shipping time,228
+682,refund policy,291
+683,emi availability,376
+684,airpods price,75
+685,airpods price,425
+686,latest offers,462
+687,airpods price,50
+688,payment options,137
+689,buy iphone,289
+690,warranty details,468
+691,shipping time,146
+692,latest offers,162
+693,shipping time,133
+694,airpods price,443
+695,shipping time,421
+696,emi availability,357
+697,buy iphone,253
+698,best deals,388
+699,warranty details,332
+700,refund policy,456
+701,buy iphone,414
+702,store location,61
+703,latest offers,64
+704,store location,61
+705,emi availability,300
+706,emi availability,315
+707,shipping time,91
+708,warranty details,71
+709,latest offers,437
+710,best deals,38
+711,emi availability,285
+712,best deals,199
+713,emi availability,347
+714,emi availability,98
+715,airpods price,360
+716,discount coupon,56
+717,discount coupon,481
+718,payment options,471
+719,shipping time,366
+720,airpods price,254
+721,shipping time,80
+722,payment options,145
+723,shipping time,91
+724,warranty details,210
+725,warranty details,293
+726,warranty details,126
+727,latest offers,159
+728,track my order,223
+729,best deals,349
+730,payment options,292
+731,buy iphone,224
+732,store location,107
+733,latest offers,201
+734,emi availability,62
+735,buy iphone,165
+736,best deals,429
+737,buy iphone,61
+738,track my order,422
+739,emi availability,397
+740,shipping time,362
+741,refund policy,424
+742,airpods price,91
+743,warranty details,167
+744,buy iphone,472
+745,track my order,426
+746,emi availability,372
+747,best deals,324
+748,best deals,102
+749,best deals,348
+750,shipping time,449
+751,warranty details,77
+752,discount coupon,270
+753,shipping time,81
+754,shipping time,373
+755,discount coupon,210
+756,customer support number,466
+757,emi availability,450
+758,warranty details,401
+759,payment options,172
+760,warranty details,432
+761,track my order,211
+762,discount coupon,449
+763,airpods price,195
+764,warranty details,377
+765,shipping time,153
+766,warranty details,130
+767,airpods price,298
+768,refund policy,209
+769,payment options,11
+770,latest offers,299
+771,store location,202
+772,discount coupon,29
+773,buy iphone,95
+774,payment options,152
+775,store location,334
+776,payment options,41
+777,latest offers,138
+778,latest offers,365
+779,discount coupon,485
+780,best deals,223
+781,discount coupon,280
+782,airpods price,428
+783,latest offers,263
+784,emi availability,428
+785,buy iphone,292
+786,customer support number,489
+787,shipping time,364
+788,payment options,268
+789,store location,51
+790,best deals,173
+791,payment options,492
+792,latest offers,17
+793,emi availability,443
+794,payment options,465
+795,discount coupon,302
+796,refund policy,479
+797,refund policy,276
+798,refund policy,97
+799,warranty details,387
+800,warranty details,194
+801,store location,471
+802,latest offers,199
+803,emi availability,19
+804,discount coupon,473
+805,shipping time,401
+806,shipping time,293
+807,latest offers,403
+808,store location,251
+809,payment options,158
+810,refund policy,240
+811,latest offers,100
+812,emi availability,464
+813,airpods price,24
+814,refund policy,380
+815,airpods price,173
+816,shipping time,131
+817,store location,197
+818,shipping time,380
+819,track my order,466
+820,track my order,451
+821,track my order,54
+822,refund policy,393
+823,track my order,241
+824,discount coupon,294
+825,discount coupon,185
+826,customer support number,181
+827,airpods price,308
+828,store location,204
+829,buy iphone,10
+830,emi availability,369
+831,buy iphone,162
+832,shipping time,268
+833,emi availability,50
+834,warranty details,90
+835,emi availability,116
+836,emi availability,231
+837,best deals,384
+838,best deals,206
+839,shipping time,183
+840,track my order,295
+841,latest offers,365
+842,latest offers,201
+843,customer support number,184
+844,buy iphone,262
+845,shipping time,86
+846,buy iphone,485
+847,store location,293
+848,store location,431
+849,buy iphone,222
+850,best deals,396
+851,latest offers,20
+852,store location,314
+853,warranty details,306
+854,refund policy,91
+855,buy iphone,101
+856,airpods price,251
+857,emi availability,139
+858,discount coupon,368
+859,refund policy,236
+860,latest offers,183
+861,shipping time,426
+862,airpods price,338
+863,payment options,55
+864,shipping time,171
+865,discount coupon,294
+866,emi availability,307
+867,payment options,46
+868,warranty details,217
+869,airpods price,465
+870,customer support number,200
+871,buy iphone,23
+872,store location,111
+873,customer support number,208
+874,discount coupon,405
+875,store location,165
+876,track my order,222
+877,discount coupon,442
+878,refund policy,195
+879,store location,247
+880,airpods price,210
+881,refund policy,135
+882,track my order,144
+883,customer support number,116
+884,airpods price,406
+885,best deals,434
+886,discount coupon,109
+887,shipping time,369
+888,track my order,467
+889,shipping time,443
+890,store location,441
+891,track my order,183
+892,discount coupon,21
+893,latest offers,463
+894,refund policy,420
+895,customer support number,315
+896,track my order,433
+897,best deals,113
+898,emi availability,218
+899,store location,341
+900,airpods price,37
+901,customer support number,125
+902,emi availability,78
+903,latest offers,20
+904,best deals,326
+905,emi availability,32
+906,customer support number,245
+907,warranty details,313
+908,airpods price,40
+909,refund policy,42
+910,track my order,347
+911,emi availability,185
+912,shipping time,172
+913,best deals,269
+914,store location,456
+915,emi availability,358
+916,buy iphone,317
+917,payment options,456
+918,airpods price,386
+919,refund policy,446
+920,shipping time,122
+921,buy iphone,41
+922,warranty details,488
+923,store location,119
+924,store location,492
+925,shipping time,293
+926,latest offers,494
+927,warranty details,454
+928,latest offers,52
+929,payment options,144
+930,refund policy,382
+931,best deals,350
+932,shipping time,115
+933,customer support number,276
+934,customer support number,293
+935,refund policy,51
+936,discount coupon,59
+937,airpods price,174
+938,emi availability,153
+939,best deals,364
+940,emi availability,115
+941,buy iphone,229
+942,store location,293
+943,refund policy,426
+944,customer support number,217
+945,latest offers,255
+946,customer support number,173
+947,discount coupon,467
+948,track my order,489
+949,best deals,37
+950,customer support number,366
+951,warranty details,232
+952,emi availability,469
+953,customer support number,340
+954,warranty details,232
+955,latest offers,21
+956,buy iphone,416
+957,shipping time,366
+958,emi availability,76
+959,payment options,143
+960,customer support number,423
+961,payment options,87
+962,track my order,96
+963,emi availability,22
+964,payment options,464
+965,customer support number,90
+966,customer support number,351
+967,buy iphone,16
+968,store location,225
+969,refund policy,398
+970,warranty details,424
+971,store location,266
+972,emi availability,492
+973,latest offers,355
+974,warranty details,492
+975,warranty details,125
+976,refund policy,401
+977,warranty details,34
+978,best deals,164
+979,emi availability,222
+980,best deals,211
+981,emi availability,256
+982,latest offers,241
+983,refund policy,133
+984,latest offers,425
+985,payment options,160
+986,warranty details,84
+987,refund policy,433
+988,discount coupon,133
+989,best deals,424
+990,discount coupon,347
+991,buy iphone,252
+992,refund policy,210
+993,best deals,326
+994,shipping time,318
+995,refund policy,43
+996,latest offers,375
+997,refund policy,427
+998,payment options,383
+999,airpods price,462
+1000,track my order,362

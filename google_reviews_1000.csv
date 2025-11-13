@@ -1,0 +1,1001 @@
+review_id,review_text,category
+1,Great ambience,Pricing
+2,The service was excellent,Product Quality
+3,Great ambience,Service
+4,The area was clean,Ambience
+5,Very polite staff,Ambience
+6,Affordable pricing,Product Quality
+7,Prices are too high,Service
+8,The service was excellent,Product Quality
+9,Food quality was terrible,Cleanliness
+10,Bad experience overall,Service
+11,The area was clean,Cleanliness
+12,The service was excellent,Service
+13,Great ambience,Ambience
+14,Bad experience overall,Pricing
+15,Prices are too high,Product Quality
+16,The area was clean,Pricing
+17,Very polite staff,Cleanliness
+18,The place was dirty,Pricing
+19,Bad experience overall,Pricing
+20,The area was clean,Pricing
+21,The area was clean,Service
+22,Loved the atmosphere,Ambience
+23,The place was dirty,Pricing
+24,Bad experience overall,Ambience
+25,The area was clean,Service
+26,The area was clean,Product Quality
+27,The place was dirty,Cleanliness
+28,The place was dirty,Ambience
+29,Very polite staff,Pricing
+30,Affordable pricing,Cleanliness
+31,Prices are too high,Service
+32,The service was excellent,Ambience
+33,The place was dirty,Ambience
+34,Food quality was terrible,Service
+35,The area was clean,Cleanliness
+36,Food quality was terrible,Service
+37,Food quality was terrible,Pricing
+38,Very polite staff,Product Quality
+39,Affordable pricing,Cleanliness
+40,Very polite staff,Service
+41,Great ambience,Cleanliness
+42,Affordable pricing,Ambience
+43,The area was clean,Cleanliness
+44,The place was dirty,Pricing
+45,The service was excellent,Cleanliness
+46,The place was dirty,Pricing
+47,The area was clean,Pricing
+48,Very polite staff,Cleanliness
+49,Food quality was terrible,Service
+50,Loved the atmosphere,Cleanliness
+51,Loved the atmosphere,Pricing
+52,Affordable pricing,Pricing
+53,Affordable pricing,Ambience
+54,The place was dirty,Pricing
+55,Food quality was terrible,Cleanliness
+56,Food quality was terrible,Service
+57,Bad experience overall,Product Quality
+58,Affordable pricing,Cleanliness
+59,Great ambience,Service
+60,The place was dirty,Cleanliness
+61,Bad experience overall,Ambience
+62,Great ambience,Pricing
+63,Prices are too high,Pricing
+64,The area was clean,Ambience
+65,The service was excellent,Cleanliness
+66,The place was dirty,Ambience
+67,The place was dirty,Ambience
+68,Affordable pricing,Ambience
+69,Affordable pricing,Ambience
+70,Bad experience overall,Service
+71,Affordable pricing,Cleanliness
+72,Bad experience overall,Ambience
+73,Great ambience,Cleanliness
+74,Affordable pricing,Service
+75,Food quality was terrible,Product Quality
+76,Affordable pricing,Pricing
+77,Very polite staff,Pricing
+78,The place was dirty,Service
+79,The place was dirty,Service
+80,The area was clean,Product Quality
+81,The area was clean,Ambience
+82,Great ambience,Pricing
+83,The area was clean,Service
+84,Bad experience overall,Service
+85,Great ambience,Product Quality
+86,The place was dirty,Pricing
+87,Bad experience overall,Product Quality
+88,Affordable pricing,Product Quality
+89,Prices are too high,Pricing
+90,The place was dirty,Service
+91,Bad experience overall,Product Quality
+92,Great ambience,Product Quality
+93,Great ambience,Cleanliness
+94,Very polite staff,Ambience
+95,Loved the atmosphere,Product Quality
+96,Loved the atmosphere,Service
+97,Food quality was terrible,Service
+98,Food quality was terrible,Pricing
+99,The area was clean,Product Quality
+100,Prices are too high,Ambience
+101,The place was dirty,Ambience
+102,The area was clean,Cleanliness
+103,Very polite staff,Pricing
+104,Very polite staff,Cleanliness
+105,Bad experience overall,Service
+106,Affordable pricing,Pricing
+107,The place was dirty,Pricing
+108,Loved the atmosphere,Ambience
+109,The service was excellent,Pricing
+110,The area was clean,Service
+111,Bad experience overall,Pricing
+112,The service was excellent,Cleanliness
+113,Very polite staff,Product Quality
+114,Affordable pricing,Service
+115,The service was excellent,Cleanliness
+116,Great ambience,Ambience
+117,Bad experience overall,Service
+118,The place was dirty,Product Quality
+119,Very polite staff,Service
+120,Great ambience,Service
+121,Food quality was terrible,Pricing
+122,Bad experience overall,Product Quality
+123,Food quality was terrible,Cleanliness
+124,The area was clean,Ambience
+125,Bad experience overall,Pricing
+126,The service was excellent,Pricing
+127,Bad experience overall,Cleanliness
+128,Prices are too high,Ambience
+129,The service was excellent,Product Quality
+130,Affordable pricing,Cleanliness
+131,Food quality was terrible,Service
+132,The service was excellent,Pricing
+133,Very polite staff,Service
+134,The place was dirty,Product Quality
+135,Food quality was terrible,Cleanliness
+136,Bad experience overall,Cleanliness
+137,The service was excellent,Ambience
+138,Affordable pricing,Ambience
+139,The area was clean,Pricing
+140,Food quality was terrible,Cleanliness
+141,The service was excellent,Cleanliness
+142,Loved the atmosphere,Cleanliness
+143,Great ambience,Service
+144,Food quality was terrible,Ambience
+145,Prices are too high,Service
+146,Food quality was terrible,Product Quality
+147,Very polite staff,Cleanliness
+148,Bad experience overall,Cleanliness
+149,Prices are too high,Cleanliness
+150,The service was excellent,Pricing
+151,Very polite staff,Service
+152,Very polite staff,Ambience
+153,The area was clean,Service
+154,Very polite staff,Cleanliness
+155,The place was dirty,Pricing
+156,Food quality was terrible,Cleanliness
+157,Great ambience,Ambience
+158,Very polite staff,Pricing
+159,Prices are too high,Product Quality
+160,Great ambience,Pricing
+161,Affordable pricing,Service
+162,Great ambience,Pricing
+163,Very polite staff,Cleanliness
+164,Great ambience,Product Quality
+165,Very polite staff,Cleanliness
+166,Bad experience overall,Product Quality
+167,Very polite staff,Ambience
+168,The area was clean,Pricing
+169,Prices are too high,Pricing
+170,The place was dirty,Product Quality
+171,Prices are too high,Service
+172,Great ambience,Cleanliness
+173,Great ambience,Cleanliness
+174,The service was excellent,Product Quality
+175,Great ambience,Service
+176,The place was dirty,Pricing
+177,Very polite staff,Ambience
+178,Bad experience overall,Pricing
+179,Affordable pricing,Service
+180,Bad experience overall,Cleanliness
+181,Food quality was terrible,Product Quality
+182,The area was clean,Service
+183,Prices are too high,Ambience
+184,Affordable pricing,Service
+185,Affordable pricing,Pricing
+186,The place was dirty,Pricing
+187,Very polite staff,Ambience
+188,Prices are too high,Ambience
+189,Bad experience overall,Product Quality
+190,The place was dirty,Product Quality
+191,Loved the atmosphere,Cleanliness
+192,The place was dirty,Service
+193,The area was clean,Cleanliness
+194,Bad experience overall,Pricing
+195,Affordable pricing,Ambience
+196,Bad experience overall,Product Quality
+197,The place was dirty,Pricing
+198,Food quality was terrible,Pricing
+199,Very polite staff,Cleanliness
+200,The place was dirty,Cleanliness
+201,Prices are too high,Cleanliness
+202,Great ambience,Cleanliness
+203,The area was clean,Service
+204,The service was excellent,Service
+205,Very polite staff,Product Quality
+206,Affordable pricing,Ambience
+207,Great ambience,Service
+208,Food quality was terrible,Ambience
+209,The service was excellent,Service
+210,The place was dirty,Ambience
+211,Food quality was terrible,Pricing
+212,The service was excellent,Service
+213,Food quality was terrible,Pricing
+214,Great ambience,Service
+215,The service was excellent,Product Quality
+216,Bad experience overall,Product Quality
+217,Loved the atmosphere,Ambience
+218,The service was excellent,Ambience
+219,The place was dirty,Cleanliness
+220,Loved the atmosphere,Product Quality
+221,The service was excellent,Ambience
+222,The service was excellent,Cleanliness
+223,The area was clean,Ambience
+224,Bad experience overall,Product Quality
+225,Very polite staff,Pricing
+226,The area was clean,Ambience
+227,Affordable pricing,Cleanliness
+228,The area was clean,Ambience
+229,Prices are too high,Service
+230,Food quality was terrible,Service
+231,Loved the atmosphere,Pricing
+232,The place was dirty,Pricing
+233,Very polite staff,Ambience
+234,Loved the atmosphere,Product Quality
+235,Affordable pricing,Cleanliness
+236,Bad experience overall,Ambience
+237,Very polite staff,Ambience
+238,The service was excellent,Pricing
+239,Food quality was terrible,Ambience
+240,Food quality was terrible,Cleanliness
+241,The place was dirty,Ambience
+242,The place was dirty,Pricing
+243,Bad experience overall,Ambience
+244,Bad experience overall,Pricing
+245,Very polite staff,Cleanliness
+246,Prices are too high,Cleanliness
+247,Food quality was terrible,Ambience
+248,Affordable pricing,Product Quality
+249,The service was excellent,Product Quality
+250,The area was clean,Product Quality
+251,Bad experience overall,Ambience
+252,The area was clean,Ambience
+253,Great ambience,Product Quality
+254,Great ambience,Service
+255,Bad experience overall,Ambience
+256,Loved the atmosphere,Cleanliness
+257,The area was clean,Pricing
+258,Very polite staff,Cleanliness
+259,Bad experience overall,Cleanliness
+260,The area was clean,Ambience
+261,The area was clean,Service
+262,Bad experience overall,Service
+263,Prices are too high,Product Quality
+264,Very polite staff,Product Quality
+265,The area was clean,Cleanliness
+266,Great ambience,Cleanliness
+267,The area was clean,Ambience
+268,The service was excellent,Product Quality
+269,Bad experience overall,Product Quality
+270,Great ambience,Service
+271,The service was excellent,Pricing
+272,Bad experience overall,Ambience
+273,The service was excellent,Product Quality
+274,Bad experience overall,Pricing
+275,Great ambience,Pricing
+276,The service was excellent,Ambience
+277,Great ambience,Pricing
+278,The area was clean,Cleanliness
+279,Loved the atmosphere,Service
+280,The place was dirty,Cleanliness
+281,Loved the atmosphere,Ambience
+282,The place was dirty,Service
+283,Prices are too high,Service
+284,Prices are too high,Ambience
+285,Prices are too high,Cleanliness
+286,The area was clean,Pricing
+287,Great ambience,Pricing
+288,Loved the atmosphere,Pricing
+289,Affordable pricing,Ambience
+290,Prices are too high,Service
+291,The service was excellent,Product Quality
+292,Loved the atmosphere,Pricing
+293,The area was clean,Ambience
+294,Prices are too high,Service
+295,The area was clean,Product Quality
+296,Very polite staff,Pricing
+297,Bad experience overall,Service
+298,Food quality was terrible,Service
+299,Bad experience overall,Pricing
+300,Great ambience,Service
+301,The service was excellent,Ambience
+302,Very polite staff,Service
+303,Affordable pricing,Service
+304,Affordable pricing,Pricing
+305,Prices are too high,Product Quality
+306,Food quality was terrible,Service
+307,The place was dirty,Cleanliness
+308,Prices are too high,Service
+309,The service was excellent,Ambience
+310,Great ambience,Pricing
+311,Great ambience,Pricing
+312,Prices are too high,Product Quality
+313,Affordable pricing,Ambience
+314,Food quality was terrible,Cleanliness
+315,Great ambience,Product Quality
+316,Bad experience overall,Pricing
+317,Food quality was terrible,Product Quality
+318,The area was clean,Service
+319,Affordable pricing,Ambience
+320,The service was excellent,Pricing
+321,The area was clean,Cleanliness
+322,Affordable pricing,Pricing
+323,Great ambience,Product Quality
+324,Great ambience,Pricing
+325,The service was excellent,Product Quality
+326,Great ambience,Product Quality
+327,The service was excellent,Cleanliness
+328,Very polite staff,Cleanliness
+329,Very polite staff,Service
+330,Loved the atmosphere,Cleanliness
+331,Very polite staff,Product Quality
+332,The area was clean,Product Quality
+333,Food quality was terrible,Product Quality
+334,Loved the atmosphere,Cleanliness
+335,The service was excellent,Ambience
+336,Great ambience,Cleanliness
+337,Very polite staff,Product Quality
+338,The place was dirty,Service
+339,Prices are too high,Pricing
+340,Prices are too high,Pricing
+341,Food quality was terrible,Ambience
+342,Loved the atmosphere,Service
+343,Great ambience,Ambience
+344,Great ambience,Product Quality
+345,Bad experience overall,Pricing
+346,Very polite staff,Cleanliness
+347,The area was clean,Product Quality
+348,The service was excellent,Ambience
+349,The place was dirty,Cleanliness
+350,Prices are too high,Cleanliness
+351,The service was excellent,Product Quality
+352,The place was dirty,Cleanliness
+353,The service was excellent,Service
+354,Great ambience,Cleanliness
+355,Food quality was terrible,Pricing
+356,The service was excellent,Service
+357,Bad experience overall,Pricing
+358,Affordable pricing,Ambience
+359,The place was dirty,Cleanliness
+360,Prices are too high,Cleanliness
+361,Loved the atmosphere,Cleanliness
+362,Affordable pricing,Ambience
+363,Prices are too high,Cleanliness
+364,Food quality was terrible,Pricing
+365,Loved the atmosphere,Ambience
+366,Food quality was terrible,Cleanliness
+367,Food quality was terrible,Cleanliness
+368,Food quality was terrible,Pricing
+369,Prices are too high,Ambience
+370,Food quality was terrible,Pricing
+371,The service was excellent,Service
+372,Loved the atmosphere,Pricing
+373,The service was excellent,Cleanliness
+374,Prices are too high,Product Quality
+375,Very polite staff,Pricing
+376,Affordable pricing,Product Quality
+377,Very polite staff,Ambience
+378,The service was excellent,Cleanliness
+379,Food quality was terrible,Ambience
+380,Food quality was terrible,Product Quality
+381,Great ambience,Pricing
+382,The service was excellent,Cleanliness
+383,Very polite staff,Cleanliness
+384,Great ambience,Pricing
+385,Prices are too high,Service
+386,The place was dirty,Product Quality
+387,Food quality was terrible,Service
+388,Great ambience,Pricing
+389,Food quality was terrible,Ambience
+390,The place was dirty,Pricing
+391,Very polite staff,Product Quality
+392,Prices are too high,Ambience
+393,Prices are too high,Pricing
+394,The service was excellent,Pricing
+395,The place was dirty,Service
+396,The area was clean,Product Quality
+397,Food quality was terrible,Cleanliness
+398,Food quality was terrible,Service
+399,The service was excellent,Cleanliness
+400,Very polite staff,Service
+401,Very polite staff,Product Quality
+402,Food quality was terrible,Service
+403,Great ambience,Cleanliness
+404,The area was clean,Product Quality
+405,Affordable pricing,Pricing
+406,Great ambience,Ambience
+407,Food quality was terrible,Service
+408,The place was dirty,Product Quality
+409,The service was excellent,Product Quality
+410,Prices are too high,Pricing
+411,The service was excellent,Product Quality
+412,Very polite staff,Cleanliness
+413,The service was excellent,Product Quality
+414,Loved the atmosphere,Pricing
+415,The area was clean,Cleanliness
+416,The place was dirty,Product Quality
+417,Bad experience overall,Service
+418,The place was dirty,Ambience
+419,Prices are too high,Ambience
+420,Bad experience overall,Product Quality
+421,Affordable pricing,Ambience
+422,The area was clean,Product Quality
+423,Food quality was terrible,Product Quality
+424,Bad experience overall,Pricing
+425,Food quality was terrible,Pricing
+426,The service was excellent,Pricing
+427,The service was excellent,Product Quality
+428,Bad experience overall,Cleanliness
+429,The place was dirty,Pricing
+430,Food quality was terrible,Pricing
+431,The service was excellent,Service
+432,Prices are too high,Cleanliness
+433,Affordable pricing,Cleanliness
+434,Loved the atmosphere,Ambience
+435,Bad experience overall,Ambience
+436,Bad experience overall,Pricing
+437,The area was clean,Cleanliness
+438,Prices are too high,Product Quality
+439,Loved the atmosphere,Pricing
+440,Affordable pricing,Pricing
+441,The area was clean,Product Quality
+442,Food quality was terrible,Pricing
+443,The service was excellent,Cleanliness
+444,Affordable pricing,Ambience
+445,Prices are too high,Cleanliness
+446,Prices are too high,Pricing
+447,Very polite staff,Cleanliness
+448,The place was dirty,Cleanliness
+449,Affordable pricing,Ambience
+450,Bad experience overall,Product Quality
+451,The service was excellent,Ambience
+452,The area was clean,Product Quality
+453,Great ambience,Pricing
+454,Loved the atmosphere,Ambience
+455,Bad experience overall,Product Quality
+456,Loved the atmosphere,Ambience
+457,Affordable pricing,Ambience
+458,The area was clean,Pricing
+459,Very polite staff,Pricing
+460,The area was clean,Ambience
+461,Great ambience,Pricing
+462,The place was dirty,Ambience
+463,The service was excellent,Pricing
+464,Very polite staff,Ambience
+465,The area was clean,Cleanliness
+466,Very polite staff,Pricing
+467,Affordable pricing,Cleanliness
+468,Bad experience overall,Pricing
+469,Prices are too high,Service
+470,Prices are too high,Pricing
+471,The area was clean,Pricing
+472,Prices are too high,Service
+473,The place was dirty,Product Quality
+474,Affordable pricing,Pricing
+475,The place was dirty,Product Quality
+476,Very polite staff,Cleanliness
+477,Bad experience overall,Service
+478,The service was excellent,Ambience
+479,The area was clean,Ambience
+480,The area was clean,Ambience
+481,The service was excellent,Pricing
+482,The place was dirty,Service
+483,Bad experience overall,Service
+484,Loved the atmosphere,Pricing
+485,Food quality was terrible,Cleanliness
+486,Bad experience overall,Product Quality
+487,Prices are too high,Product Quality
+488,Bad experience overall,Service
+489,Loved the atmosphere,Pricing
+490,Loved the atmosphere,Service
+491,Bad experience overall,Service
+492,Very polite staff,Product Quality
+493,Bad experience overall,Ambience
+494,Great ambience,Service
+495,The service was excellent,Product Quality
+496,The service was excellent,Product Quality
+497,Very polite staff,Ambience
+498,The place was dirty,Ambience
+499,Bad experience overall,Product Quality
+500,The place was dirty,Service
+501,Prices are too high,Cleanliness
+502,The area was clean,Cleanliness
+503,Prices are too high,Pricing
+504,Affordable pricing,Service
+505,Very polite staff,Ambience
+506,Prices are too high,Cleanliness
+507,The place was dirty,Pricing
+508,Great ambience,Pricing
+509,The place was dirty,Ambience
+510,Food quality was terrible,Pricing
+511,Prices are too high,Pricing
+512,Affordable pricing,Service
+513,The place was dirty,Cleanliness
+514,Prices are too high,Service
+515,The area was clean,Product Quality
+516,Affordable pricing,Product Quality
+517,The area was clean,Pricing
+518,Very polite staff,Pricing
+519,Very polite staff,Cleanliness
+520,The place was dirty,Product Quality
+521,The place was dirty,Ambience
+522,Food quality was terrible,Pricing
+523,The service was excellent,Ambience
+524,The place was dirty,Product Quality
+525,Loved the atmosphere,Ambience
+526,Very polite staff,Cleanliness
+527,The service was excellent,Cleanliness
+528,Prices are too high,Product Quality
+529,Loved the atmosphere,Service
+530,Prices are too high,Product Quality
+531,Affordable pricing,Cleanliness
+532,Affordable pricing,Ambience
+533,Very polite staff,Service
+534,Very polite staff,Ambience
+535,Bad experience overall,Service
+536,The area was clean,Product Quality
+537,Bad experience overall,Pricing
+538,Loved the atmosphere,Ambience
+539,Bad experience overall,Service
+540,Food quality was terrible,Cleanliness
+541,Bad experience overall,Product Quality
+542,Great ambience,Service
+543,Affordable pricing,Ambience
+544,Very polite staff,Product Quality
+545,Affordable pricing,Pricing
+546,Loved the atmosphere,Service
+547,Food quality was terrible,Service
+548,Very polite staff,Cleanliness
+549,Loved the atmosphere,Product Quality
+550,Loved the atmosphere,Pricing
+551,The area was clean,Product Quality
+552,The area was clean,Pricing
+553,Prices are too high,Service
+554,Loved the atmosphere,Pricing
+555,The service was excellent,Service
+556,Great ambience,Pricing
+557,Very polite staff,Product Quality
+558,Affordable pricing,Ambience
+559,The area was clean,Ambience
+560,Affordable pricing,Pricing
+561,Very polite staff,Cleanliness
+562,Loved the atmosphere,Product Quality
+563,Loved the atmosphere,Pricing
+564,Prices are too high,Service
+565,The place was dirty,Cleanliness
+566,Great ambience,Product Quality
+567,Very polite staff,Pricing
+568,The service was excellent,Cleanliness
+569,The area was clean,Service
+570,Food quality was terrible,Service
+571,The service was excellent,Service
+572,Prices are too high,Product Quality
+573,Great ambience,Cleanliness
+574,Prices are too high,Product Quality
+575,Bad experience overall,Service
+576,Prices are too high,Ambience
+577,Affordable pricing,Cleanliness
+578,Great ambience,Pricing
+579,Very polite staff,Ambience
+580,Affordable pricing,Pricing
+581,Loved the atmosphere,Pricing
+582,The service was excellent,Pricing
+583,Prices are too high,Pricing
+584,The service was excellent,Ambience
+585,Bad experience overall,Ambience
+586,Food quality was terrible,Service
+587,The area was clean,Service
+588,Food quality was terrible,Service
+589,Great ambience,Pricing
+590,Prices are too high,Cleanliness
+591,Very polite staff,Cleanliness
+592,The area was clean,Ambience
+593,Affordable pricing,Product Quality
+594,Very polite staff,Service
+595,Great ambience,Pricing
+596,Bad experience overall,Pricing
+597,Affordable pricing,Ambience
+598,The service was excellent,Product Quality
+599,Very polite staff,Product Quality
+600,Bad experience overall,Service
+601,The place was dirty,Cleanliness
+602,Loved the atmosphere,Pricing
+603,The place was dirty,Service
+604,Bad experience overall,Service
+605,The area was clean,Cleanliness
+606,The service was excellent,Ambience
+607,Affordable pricing,Ambience
+608,Great ambience,Cleanliness
+609,Bad experience overall,Product Quality
+610,Very polite staff,Cleanliness
+611,Food quality was terrible,Pricing
+612,Very polite staff,Ambience
+613,The area was clean,Service
+614,Food quality was terrible,Product Quality
+615,The area was clean,Service
+616,Loved the atmosphere,Product Quality
+617,The service was excellent,Product Quality
+618,The area was clean,Service
+619,The area was clean,Ambience
+620,Great ambience,Product Quality
+621,The service was excellent,Ambience
+622,The area was clean,Service
+623,The place was dirty,Pricing
+624,Food quality was terrible,Cleanliness
+625,Bad experience overall,Service
+626,Loved the atmosphere,Service
+627,The area was clean,Product Quality
+628,Bad experience overall,Pricing
+629,Loved the atmosphere,Pricing
+630,Food quality was terrible,Ambience
+631,Affordable pricing,Ambience
+632,Bad experience overall,Service
+633,Great ambience,Pricing
+634,Very polite staff,Ambience
+635,Bad experience overall,Cleanliness
+636,Affordable pricing,Pricing
+637,Bad experience overall,Product Quality
+638,Very polite staff,Ambience
+639,Bad experience overall,Cleanliness
+640,Great ambience,Ambience
+641,Loved the atmosphere,Service
+642,Bad experience overall,Cleanliness
+643,Prices are too high,Product Quality
+644,The place was dirty,Cleanliness
+645,Prices are too high,Pricing
+646,Very polite staff,Pricing
+647,The service was excellent,Cleanliness
+648,Very polite staff,Ambience
+649,Prices are too high,Ambience
+650,The area was clean,Pricing
+651,Bad experience overall,Cleanliness
+652,Prices are too high,Service
+653,The place was dirty,Pricing
+654,The service was excellent,Cleanliness
+655,Very polite staff,Ambience
+656,Bad experience overall,Service
+657,Great ambience,Ambience
+658,The area was clean,Ambience
+659,The area was clean,Cleanliness
+660,The service was excellent,Pricing
+661,Bad experience overall,Service
+662,Food quality was terrible,Product Quality
+663,Loved the atmosphere,Service
+664,Food quality was terrible,Ambience
+665,The area was clean,Product Quality
+666,Great ambience,Product Quality
+667,Affordable pricing,Cleanliness
+668,Bad experience overall,Service
+669,Prices are too high,Ambience
+670,Bad experience overall,Cleanliness
+671,The area was clean,Service
+672,Very polite staff,Ambience
+673,Bad experience overall,Ambience
+674,Very polite staff,Cleanliness
+675,Very polite staff,Service
+676,The place was dirty,Ambience
+677,Very polite staff,Ambience
+678,Very polite staff,Ambience
+679,Prices are too high,Pricing
+680,Loved the atmosphere,Cleanliness
+681,The service was excellent,Cleanliness
+682,The place was dirty,Product Quality
+683,Very polite staff,Product Quality
+684,The place was dirty,Cleanliness
+685,The service was excellent,Product Quality
+686,Prices are too high,Product Quality
+687,Loved the atmosphere,Pricing
+688,Affordable pricing,Service
+689,Loved the atmosphere,Service
+690,Loved the atmosphere,Service
+691,Food quality was terrible,Service
+692,The place was dirty,Service
+693,The area was clean,Product Quality
+694,Great ambience,Service
+695,Very polite staff,Pricing
+696,The place was dirty,Pricing
+697,The service was excellent,Cleanliness
+698,Bad experience overall,Pricing
+699,The place was dirty,Pricing
+700,Very polite staff,Pricing
+701,The area was clean,Cleanliness
+702,Affordable pricing,Product Quality
+703,Food quality was terrible,Cleanliness
+704,The area was clean,Ambience
+705,The place was dirty,Pricing
+706,Bad experience overall,Product Quality
+707,The area was clean,Service
+708,Affordable pricing,Pricing
+709,The service was excellent,Cleanliness
+710,Affordable pricing,Cleanliness
+711,The service was excellent,Pricing
+712,Food quality was terrible,Cleanliness
+713,Loved the atmosphere,Service
+714,Great ambience,Ambience
+715,The place was dirty,Product Quality
+716,Bad experience overall,Product Quality
+717,Great ambience,Cleanliness
+718,Loved the atmosphere,Ambience
+719,The service was excellent,Product Quality
+720,The area was clean,Service
+721,Food quality was terrible,Ambience
+722,Prices are too high,Ambience
+723,Bad experience overall,Cleanliness
+724,The service was excellent,Ambience
+725,Food quality was terrible,Pricing
+726,The area was clean,Cleanliness
+727,The place was dirty,Product Quality
+728,Very polite staff,Pricing
+729,The area was clean,Service
+730,The place was dirty,Cleanliness
+731,Prices are too high,Service
+732,Bad experience overall,Ambience
+733,Very polite staff,Pricing
+734,Prices are too high,Product Quality
+735,Affordable pricing,Cleanliness
+736,The area was clean,Product Quality
+737,Bad experience overall,Pricing
+738,The service was excellent,Ambience
+739,Great ambience,Service
+740,Food quality was terrible,Cleanliness
+741,Great ambience,Cleanliness
+742,Loved the atmosphere,Pricing
+743,The area was clean,Cleanliness
+744,Loved the atmosphere,Pricing
+745,Affordable pricing,Cleanliness
+746,Bad experience overall,Pricing
+747,Very polite staff,Service
+748,Food quality was terrible,Service
+749,The area was clean,Cleanliness
+750,The place was dirty,Product Quality
+751,Food quality was terrible,Service
+752,The area was clean,Pricing
+753,Affordable pricing,Ambience
+754,The area was clean,Product Quality
+755,The place was dirty,Service
+756,The service was excellent,Ambience
+757,The area was clean,Service
+758,The place was dirty,Service
+759,Great ambience,Product Quality
+760,Loved the atmosphere,Cleanliness
+761,The area was clean,Product Quality
+762,Prices are too high,Cleanliness
+763,Great ambience,Product Quality
+764,The area was clean,Ambience
+765,The area was clean,Service
+766,Food quality was terrible,Ambience
+767,The area was clean,Service
+768,Great ambience,Ambience
+769,Affordable pricing,Cleanliness
+770,The service was excellent,Ambience
+771,Great ambience,Cleanliness
+772,Prices are too high,Ambience
+773,Loved the atmosphere,Service
+774,Great ambience,Product Quality
+775,The area was clean,Pricing
+776,Food quality was terrible,Cleanliness
+777,Great ambience,Product Quality
+778,Very polite staff,Pricing
+779,The place was dirty,Ambience
+780,Prices are too high,Ambience
+781,Affordable pricing,Service
+782,The service was excellent,Cleanliness
+783,Affordable pricing,Cleanliness
+784,Very polite staff,Pricing
+785,The area was clean,Cleanliness
+786,Affordable pricing,Product Quality
+787,Food quality was terrible,Service
+788,Great ambience,Pricing
+789,Prices are too high,Pricing
+790,The service was excellent,Pricing
+791,Loved the atmosphere,Pricing
+792,Loved the atmosphere,Pricing
+793,Affordable pricing,Ambience
+794,Bad experience overall,Ambience
+795,Prices are too high,Pricing
+796,Loved the atmosphere,Cleanliness
+797,The service was excellent,Product Quality
+798,Affordable pricing,Cleanliness
+799,The service was excellent,Ambience
+800,Bad experience overall,Pricing
+801,The place was dirty,Product Quality
+802,Bad experience overall,Cleanliness
+803,Very polite staff,Cleanliness
+804,Affordable pricing,Cleanliness
+805,The service was excellent,Pricing
+806,Loved the atmosphere,Cleanliness
+807,Loved the atmosphere,Cleanliness
+808,Affordable pricing,Cleanliness
+809,Very polite staff,Pricing
+810,Prices are too high,Service
+811,Food quality was terrible,Cleanliness
+812,Food quality was terrible,Service
+813,The place was dirty,Service
+814,Food quality was terrible,Product Quality
+815,Bad experience overall,Product Quality
+816,Food quality was terrible,Service
+817,Very polite staff,Product Quality
+818,Great ambience,Cleanliness
+819,Great ambience,Service
+820,Great ambience,Ambience
+821,Great ambience,Product Quality
+822,Bad experience overall,Service
+823,Loved the atmosphere,Cleanliness
+824,The place was dirty,Cleanliness
+825,The area was clean,Product Quality
+826,Great ambience,Cleanliness
+827,Affordable pricing,Service
+828,Great ambience,Service
+829,Great ambience,Ambience
+830,Affordable pricing,Pricing
+831,Great ambience,Pricing
+832,Very polite staff,Product Quality
+833,The place was dirty,Cleanliness
+834,The place was dirty,Ambience
+835,Affordable pricing,Product Quality
+836,Great ambience,Pricing
+837,Very polite staff,Ambience
+838,Food quality was terrible,Product Quality
+839,Great ambience,Product Quality
+840,Prices are too high,Pricing
+841,Loved the atmosphere,Pricing
+842,The place was dirty,Product Quality
+843,Bad experience overall,Product Quality
+844,Loved the atmosphere,Cleanliness
+845,The area was clean,Cleanliness
+846,Prices are too high,Service
+847,Prices are too high,Pricing
+848,The area was clean,Cleanliness
+849,Great ambience,Service
+850,Food quality was terrible,Pricing
+851,Food quality was terrible,Cleanliness
+852,Very polite staff,Ambience
+853,Great ambience,Service
+854,Great ambience,Pricing
+855,The area was clean,Product Quality
+856,The place was dirty,Ambience
+857,Very polite staff,Product Quality
+858,The place was dirty,Service
+859,Very polite staff,Service
+860,Bad experience overall,Pricing
+861,Food quality was terrible,Service
+862,Prices are too high,Cleanliness
+863,Great ambience,Product Quality
+864,Prices are too high,Product Quality
+865,Loved the atmosphere,Ambience
+866,Prices are too high,Pricing
+867,The service was excellent,Pricing
+868,Loved the atmosphere,Product Quality
+869,The place was dirty,Cleanliness
+870,Food quality was terrible,Pricing
+871,Prices are too high,Ambience
+872,Prices are too high,Product Quality
+873,The area was clean,Product Quality
+874,The service was excellent,Ambience
+875,The service was excellent,Cleanliness
+876,The service was excellent,Service
+877,Very polite staff,Ambience
+878,Bad experience overall,Pricing
+879,Food quality was terrible,Pricing
+880,Food quality was terrible,Service
+881,Loved the atmosphere,Cleanliness
+882,Bad experience overall,Product Quality
+883,Bad experience overall,Ambience
+884,Prices are too high,Ambience
+885,Affordable pricing,Cleanliness
+886,Affordable pricing,Product Quality
+887,Affordable pricing,Service
+888,The area was clean,Product Quality
+889,Prices are too high,Pricing
+890,The place was dirty,Pricing
+891,Prices are too high,Cleanliness
+892,The area was clean,Product Quality
+893,Prices are too high,Ambience
+894,Prices are too high,Service
+895,Affordable pricing,Product Quality
+896,The area was clean,Ambience
+897,Food quality was terrible,Pricing
+898,The area was clean,Cleanliness
+899,Food quality was terrible,Ambience
+900,Affordable pricing,Cleanliness
+901,Loved the atmosphere,Cleanliness
+902,The area was clean,Ambience
+903,The place was dirty,Cleanliness
+904,The area was clean,Cleanliness
+905,Loved the atmosphere,Service
+906,Affordable pricing,Service
+907,The area was clean,Cleanliness
+908,Very polite staff,Pricing
+909,Affordable pricing,Pricing
+910,Prices are too high,Cleanliness
+911,Prices are too high,Product Quality
+912,The place was dirty,Pricing
+913,Very polite staff,Pricing
+914,Loved the atmosphere,Product Quality
+915,Great ambience,Ambience
+916,The place was dirty,Product Quality
+917,Very polite staff,Ambience
+918,The service was excellent,Cleanliness
+919,Prices are too high,Service
+920,The service was excellent,Product Quality
+921,Great ambience,Pricing
+922,Affordable pricing,Product Quality
+923,Food quality was terrible,Pricing
+924,The place was dirty,Pricing
+925,The service was excellent,Pricing
+926,Great ambience,Pricing
+927,Food quality was terrible,Ambience
+928,Food quality was terrible,Cleanliness
+929,Bad experience overall,Service
+930,Very polite staff,Pricing
+931,Loved the atmosphere,Pricing
+932,Very polite staff,Product Quality
+933,The place was dirty,Pricing
+934,The service was excellent,Service
+935,Very polite staff,Cleanliness
+936,The place was dirty,Service
+937,Affordable pricing,Cleanliness
+938,The area was clean,Service
+939,The service was excellent,Cleanliness
+940,Bad experience overall,Cleanliness
+941,Food quality was terrible,Ambience
+942,Great ambience,Pricing
+943,Very polite staff,Service
+944,Very polite staff,Cleanliness
+945,Affordable pricing,Pricing
+946,The service was excellent,Ambience
+947,The place was dirty,Pricing
+948,The place was dirty,Pricing
+949,Loved the atmosphere,Service
+950,The area was clean,Service
+951,Affordable pricing,Service
+952,Very polite staff,Service
+953,Food quality was terrible,Pricing
+954,Prices are too high,Pricing
+955,The area was clean,Product Quality
+956,Great ambience,Service
+957,Very polite staff,Product Quality
+958,Very polite staff,Pricing
+959,Very polite staff,Ambience
+960,Prices are too high,Product Quality
+961,Bad experience overall,Product Quality
+962,The area was clean,Product Quality
+963,Great ambience,Ambience
+964,Prices are too high,Service
+965,Food quality was terrible,Pricing
+966,Loved the atmosphere,Service
+967,Very polite staff,Ambience
+968,Affordable pricing,Product Quality
+969,The service was excellent,Cleanliness
+970,Prices are too high,Cleanliness
+971,The area was clean,Product Quality
+972,Bad experience overall,Service
+973,Very polite staff,Service
+974,The area was clean,Ambience
+975,Prices are too high,Service
+976,The service was excellent,Product Quality
+977,The service was excellent,Ambience
+978,Loved the atmosphere,Ambience
+979,The place was dirty,Ambience
+980,Bad experience overall,Pricing
+981,Great ambience,Ambience
+982,The place was dirty,Ambience
+983,The service was excellent,Ambience
+984,Loved the atmosphere,Pricing
+985,Prices are too high,Ambience
+986,Affordable pricing,Ambience
+987,Great ambience,Pricing
+988,Loved the atmosphere,Pricing
+989,Affordable pricing,Ambience
+990,Very polite staff,Cleanliness
+991,Bad experience overall,Service
+992,Food quality was terrible,Ambience
+993,Food quality was terrible,Product Quality
+994,Very polite staff,Service
+995,Very polite staff,Product Quality
+996,The service was excellent,Pricing
+997,Loved the atmosphere,Service
+998,Very polite staff,Product Quality
+999,Prices are too high,Product Quality
+1000,Bad experience overall,Cleanliness

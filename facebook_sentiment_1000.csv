@@ -1,0 +1,1001 @@
+comment_id,comment_text,sentiment
+1,I love this product!,Positive
+2,Not satisfied,Positive
+3,Very disappointing,Neutral
+4,Delivery was late,Negative
+5,Fair enough,Positive
+6,Could be better,Positive
+7,Nothing special,Negative
+8,Amazing quality!,Negative
+9,Excellent service!,Neutral
+10,Average experience,Positive
+11,Amazing quality!,Positive
+12,Product stopped working,Neutral
+13,It's okay,Negative
+14,Delivery was late,Positive
+15,Bad experience overall,Negative
+16,Very disappointing,Positive
+17,Very satisfied with the product,Neutral
+18,Fantastic experience,Neutral
+19,Product stopped working,Negative
+20,Terrible support,Negative
+21,Average experience,Negative
+22,Not satisfied,Negative
+23,Average experience,Neutral
+24,Worst service ever,Positive
+25,Could be better,Negative
+26,Amazing quality!,Negative
+27,It's okay,Negative
+28,Product stopped working,Positive
+29,Worst service ever,Positive
+30,Very bad experience,Neutral
+31,Super fast delivery!,Neutral
+32,Worst service ever,Neutral
+33,Super fast delivery!,Positive
+34,Fair enough,Negative
+35,Fair enough,Neutral
+36,Poor quality,Neutral
+37,Not satisfied,Negative
+38,Product stopped working,Positive
+39,Excellent service!,Positive
+40,Could be better,Positive
+41,It's okay,Negative
+42,Fair enough,Neutral
+43,Average experience,Positive
+44,Worst service ever,Negative
+45,"Not great, not bad",Negative
+46,Poor quality,Negative
+47,Product stopped working,Negative
+48,Could be better,Neutral
+49,"Not great, not bad",Positive
+50,Bad experience overall,Negative
+51,Delivery was late,Negative
+52,Super fast delivery!,Positive
+53,Amazing quality!,Positive
+54,Could be better,Neutral
+55,Great value for money!,Negative
+56,Fair enough,Negative
+57,"Not great, not bad",Negative
+58,Delivery was late,Neutral
+59,Great value for money!,Neutral
+60,Not satisfied,Neutral
+61,Fair enough,Positive
+62,Could be better,Positive
+63,Super fast delivery!,Neutral
+64,Not satisfied,Positive
+65,Excellent service!,Neutral
+66,"Not great, not bad",Negative
+67,Poor quality,Negative
+68,Very disappointing,Neutral
+69,Great value for money!,Negative
+70,Amazing quality!,Negative
+71,Very disappointing,Positive
+72,Poor quality,Neutral
+73,Great value for money!,Positive
+74,Excellent service!,Positive
+75,Highly recommend this!,Negative
+76,Super fast delivery!,Negative
+77,Super fast delivery!,Negative
+78,Great value for money!,Positive
+79,I love this product!,Negative
+80,Not satisfied,Positive
+81,"Not great, not bad",Negative
+82,Amazing quality!,Neutral
+83,I love this product!,Negative
+84,Excellent service!,Negative
+85,Not satisfied,Negative
+86,Delivery was late,Positive
+87,It's okay,Neutral
+88,"Not great, not bad",Neutral
+89,Not satisfied,Neutral
+90,Very satisfied with the product,Negative
+91,Highly recommend this!,Positive
+92,Could be better,Negative
+93,Delivery was late,Positive
+94,Amazing quality!,Positive
+95,Very bad experience,Neutral
+96,Super fast delivery!,Positive
+97,Fair enough,Neutral
+98,Average experience,Negative
+99,Terrible support,Neutral
+100,Very disappointing,Neutral
+101,It's okay,Negative
+102,Amazing quality!,Neutral
+103,Great value for money!,Negative
+104,"Not great, not bad",Negative
+105,Very satisfied with the product,Positive
+106,It's okay,Neutral
+107,Highly recommend this!,Positive
+108,Average experience,Neutral
+109,Fantastic experience,Negative
+110,Worst service ever,Negative
+111,Delivery was late,Neutral
+112,Not satisfied,Negative
+113,Terrible support,Positive
+114,Bad experience overall,Positive
+115,Could be better,Neutral
+116,Worst service ever,Neutral
+117,Not satisfied,Negative
+118,It's okay,Neutral
+119,Worst service ever,Positive
+120,It's okay,Negative
+121,Excellent service!,Positive
+122,Amazing quality!,Neutral
+123,Highly recommend this!,Negative
+124,Terrible support,Positive
+125,Terrible support,Neutral
+126,I liked it,Positive
+127,"Not great, not bad",Neutral
+128,Worst service ever,Neutral
+129,"Not great, not bad",Positive
+130,Average experience,Positive
+131,Could be better,Positive
+132,Terrible support,Negative
+133,Fantastic experience,Positive
+134,Nothing special,Negative
+135,Very disappointing,Negative
+136,Highly recommend this!,Neutral
+137,Amazing quality!,Positive
+138,Not satisfied,Negative
+139,Nothing special,Negative
+140,Worst service ever,Neutral
+141,Highly recommend this!,Neutral
+142,Very disappointing,Neutral
+143,Very disappointing,Positive
+144,Very disappointing,Negative
+145,Very bad experience,Positive
+146,Very bad experience,Neutral
+147,Bad experience overall,Positive
+148,Worst service ever,Neutral
+149,Excellent service!,Neutral
+150,Highly recommend this!,Positive
+151,Could be better,Neutral
+152,Terrible support,Negative
+153,Very satisfied with the product,Neutral
+154,"Not great, not bad",Negative
+155,Not satisfied,Positive
+156,Worst service ever,Positive
+157,Not satisfied,Positive
+158,Very bad experience,Neutral
+159,Excellent service!,Neutral
+160,Super fast delivery!,Negative
+161,Terrible support,Positive
+162,Excellent service!,Neutral
+163,Average experience,Neutral
+164,I liked it,Neutral
+165,Average experience,Positive
+166,Super fast delivery!,Neutral
+167,Very disappointing,Neutral
+168,Nothing special,Negative
+169,Worst service ever,Neutral
+170,I liked it,Neutral
+171,Poor quality,Neutral
+172,Not satisfied,Positive
+173,Highly recommend this!,Negative
+174,Poor quality,Positive
+175,Not satisfied,Positive
+176,Not satisfied,Neutral
+177,Delivery was late,Negative
+178,Great value for money!,Positive
+179,Very satisfied with the product,Positive
+180,It's okay,Negative
+181,Product stopped working,Neutral
+182,Very satisfied with the product,Negative
+183,I love this product!,Negative
+184,I love this product!,Negative
+185,Fantastic experience,Positive
+186,I liked it,Neutral
+187,Highly recommend this!,Negative
+188,I love this product!,Negative
+189,Worst service ever,Neutral
+190,Terrible support,Positive
+191,I love this product!,Negative
+192,Delivery was late,Neutral
+193,Fair enough,Negative
+194,Not satisfied,Neutral
+195,Poor quality,Positive
+196,I love this product!,Positive
+197,I liked it,Positive
+198,Terrible support,Neutral
+199,Amazing quality!,Neutral
+200,Nothing special,Positive
+201,Fair enough,Negative
+202,Highly recommend this!,Negative
+203,Worst service ever,Neutral
+204,Excellent service!,Negative
+205,It's okay,Negative
+206,It's okay,Positive
+207,Excellent service!,Positive
+208,Amazing quality!,Neutral
+209,Fair enough,Neutral
+210,Nothing special,Positive
+211,Fantastic experience,Neutral
+212,Nothing special,Negative
+213,Nothing special,Negative
+214,Nothing special,Negative
+215,It's okay,Neutral
+216,Nothing special,Negative
+217,Amazing quality!,Positive
+218,Excellent service!,Neutral
+219,Could be better,Positive
+220,I love this product!,Positive
+221,Could be better,Negative
+222,Highly recommend this!,Negative
+223,Product stopped working,Positive
+224,Very disappointing,Neutral
+225,I liked it,Negative
+226,"Not great, not bad",Neutral
+227,Poor quality,Positive
+228,Average experience,Negative
+229,Very bad experience,Positive
+230,It's okay,Negative
+231,Delivery was late,Positive
+232,Terrible support,Negative
+233,Very satisfied with the product,Negative
+234,Worst service ever,Neutral
+235,Product stopped working,Negative
+236,Very satisfied with the product,Negative
+237,"Not great, not bad",Negative
+238,Product stopped working,Positive
+239,Amazing quality!,Negative
+240,Very disappointing,Negative
+241,Poor quality,Positive
+242,Nothing special,Neutral
+243,Super fast delivery!,Neutral
+244,I love this product!,Positive
+245,Highly recommend this!,Positive
+246,Fantastic experience,Neutral
+247,Highly recommend this!,Positive
+248,Excellent service!,Positive
+249,Could be better,Negative
+250,Nothing special,Neutral
+251,I love this product!,Positive
+252,I love this product!,Positive
+253,Highly recommend this!,Neutral
+254,Very satisfied with the product,Neutral
+255,Bad experience overall,Positive
+256,Fantastic experience,Positive
+257,Terrible support,Neutral
+258,Very disappointing,Negative
+259,Very disappointing,Positive
+260,Nothing special,Positive
+261,Product stopped working,Positive
+262,Worst service ever,Positive
+263,I love this product!,Neutral
+264,I liked it,Positive
+265,Could be better,Neutral
+266,Amazing quality!,Positive
+267,It's okay,Positive
+268,Fair enough,Neutral
+269,Terrible support,Positive
+270,Terrible support,Negative
+271,Poor quality,Neutral
+272,Excellent service!,Positive
+273,Could be better,Positive
+274,Great value for money!,Negative
+275,Product stopped working,Neutral
+276,Terrible support,Positive
+277,Bad experience overall,Neutral
+278,Very bad experience,Negative
+279,Very bad experience,Positive
+280,Terrible support,Positive
+281,Fantastic experience,Negative
+282,I love this product!,Neutral
+283,I liked it,Positive
+284,Super fast delivery!,Neutral
+285,Very satisfied with the product,Positive
+286,Worst service ever,Positive
+287,Terrible support,Neutral
+288,Super fast delivery!,Negative
+289,I liked it,Neutral
+290,Super fast delivery!,Neutral
+291,Nothing special,Neutral
+292,Product stopped working,Neutral
+293,I love this product!,Neutral
+294,Poor quality,Neutral
+295,Worst service ever,Positive
+296,"Not great, not bad",Positive
+297,Terrible support,Neutral
+298,Amazing quality!,Neutral
+299,Very bad experience,Negative
+300,Fair enough,Neutral
+301,Nothing special,Positive
+302,Could be better,Positive
+303,Great value for money!,Positive
+304,Delivery was late,Positive
+305,Amazing quality!,Negative
+306,Great value for money!,Negative
+307,Fantastic experience,Neutral
+308,Amazing quality!,Neutral
+309,Average experience,Neutral
+310,Could be better,Positive
+311,Fantastic experience,Positive
+312,Very disappointing,Negative
+313,"Not great, not bad",Positive
+314,Very disappointing,Positive
+315,Very disappointing,Neutral
+316,Fantastic experience,Neutral
+317,Fantastic experience,Negative
+318,Product stopped working,Positive
+319,Fair enough,Neutral
+320,Nothing special,Negative
+321,Worst service ever,Positive
+322,Average experience,Neutral
+323,Nothing special,Negative
+324,Fair enough,Positive
+325,Delivery was late,Positive
+326,Fantastic experience,Neutral
+327,Great value for money!,Negative
+328,Poor quality,Negative
+329,I love this product!,Neutral
+330,Great value for money!,Neutral
+331,Worst service ever,Negative
+332,Delivery was late,Positive
+333,Excellent service!,Negative
+334,Worst service ever,Negative
+335,Product stopped working,Negative
+336,Highly recommend this!,Negative
+337,Delivery was late,Neutral
+338,Not satisfied,Neutral
+339,Fantastic experience,Negative
+340,I liked it,Neutral
+341,Not satisfied,Neutral
+342,Amazing quality!,Negative
+343,Bad experience overall,Neutral
+344,Very disappointing,Neutral
+345,Not satisfied,Negative
+346,Very disappointing,Negative
+347,I liked it,Positive
+348,Great value for money!,Negative
+349,Nothing special,Neutral
+350,Highly recommend this!,Positive
+351,Not satisfied,Negative
+352,Fantastic experience,Positive
+353,Poor quality,Neutral
+354,Very disappointing,Neutral
+355,Very satisfied with the product,Negative
+356,Very satisfied with the product,Negative
+357,Fair enough,Positive
+358,Product stopped working,Negative
+359,Could be better,Negative
+360,"Not great, not bad",Negative
+361,Excellent service!,Neutral
+362,Nothing special,Positive
+363,Poor quality,Positive
+364,Very disappointing,Negative
+365,I love this product!,Neutral
+366,Worst service ever,Negative
+367,Very satisfied with the product,Positive
+368,Nothing special,Negative
+369,Fantastic experience,Negative
+370,I love this product!,Neutral
+371,Very bad experience,Neutral
+372,Very disappointing,Negative
+373,Excellent service!,Negative
+374,It's okay,Neutral
+375,I love this product!,Positive
+376,Fair enough,Positive
+377,"Not great, not bad",Neutral
+378,Product stopped working,Positive
+379,Average experience,Positive
+380,Not satisfied,Neutral
+381,Could be better,Neutral
+382,Fantastic experience,Negative
+383,Excellent service!,Positive
+384,I love this product!,Neutral
+385,Delivery was late,Neutral
+386,Bad experience overall,Neutral
+387,"Not great, not bad",Positive
+388,Highly recommend this!,Negative
+389,Fantastic experience,Positive
+390,Terrible support,Neutral
+391,Very disappointing,Negative
+392,Could be better,Neutral
+393,Great value for money!,Negative
+394,Super fast delivery!,Neutral
+395,Very disappointing,Negative
+396,Product stopped working,Negative
+397,It's okay,Negative
+398,Nothing special,Negative
+399,Great value for money!,Neutral
+400,Poor quality,Neutral
+401,Bad experience overall,Neutral
+402,It's okay,Positive
+403,Bad experience overall,Negative
+404,Delivery was late,Neutral
+405,Great value for money!,Neutral
+406,Terrible support,Negative
+407,Highly recommend this!,Negative
+408,Not satisfied,Negative
+409,Not satisfied,Positive
+410,Amazing quality!,Neutral
+411,Great value for money!,Negative
+412,Very disappointing,Neutral
+413,Not satisfied,Neutral
+414,Terrible support,Positive
+415,Super fast delivery!,Neutral
+416,Worst service ever,Neutral
+417,Terrible support,Negative
+418,Bad experience overall,Neutral
+419,Great value for money!,Positive
+420,Could be better,Positive
+421,Fair enough,Positive
+422,Fantastic experience,Negative
+423,Highly recommend this!,Neutral
+424,Poor quality,Positive
+425,I liked it,Negative
+426,Excellent service!,Neutral
+427,"Not great, not bad",Positive
+428,Highly recommend this!,Negative
+429,I liked it,Neutral
+430,Very bad experience,Negative
+431,Great value for money!,Positive
+432,Very satisfied with the product,Positive
+433,Worst service ever,Positive
+434,Excellent service!,Positive
+435,Worst service ever,Positive
+436,Poor quality,Positive
+437,It's okay,Negative
+438,I love this product!,Neutral
+439,Fantastic experience,Neutral
+440,Product stopped working,Negative
+441,Fantastic experience,Neutral
+442,"Not great, not bad",Negative
+443,Very satisfied with the product,Positive
+444,Highly recommend this!,Negative
+445,Product stopped working,Negative
+446,Worst service ever,Negative
+447,Average experience,Neutral
+448,Amazing quality!,Neutral
+449,Fantastic experience,Negative
+450,Very disappointing,Negative
+451,I liked it,Positive
+452,Very satisfied with the product,Negative
+453,Could be better,Neutral
+454,Product stopped working,Positive
+455,Product stopped working,Neutral
+456,It's okay,Neutral
+457,"Not great, not bad",Negative
+458,Excellent service!,Negative
+459,I liked it,Positive
+460,Highly recommend this!,Positive
+461,Highly recommend this!,Negative
+462,Fair enough,Positive
+463,It's okay,Neutral
+464,Average experience,Neutral
+465,I love this product!,Negative
+466,I liked it,Positive
+467,Terrible support,Negative
+468,Very satisfied with the product,Positive
+469,Poor quality,Neutral
+470,Bad experience overall,Neutral
+471,I love this product!,Negative
+472,"Not great, not bad",Positive
+473,Fantastic experience,Negative
+474,Product stopped working,Negative
+475,Poor quality,Negative
+476,Delivery was late,Negative
+477,Great value for money!,Negative
+478,I liked it,Neutral
+479,Amazing quality!,Positive
+480,Very bad experience,Neutral
+481,Fair enough,Negative
+482,Worst service ever,Positive
+483,Poor quality,Positive
+484,Very satisfied with the product,Positive
+485,Very bad experience,Neutral
+486,Great value for money!,Negative
+487,Amazing quality!,Negative
+488,I love this product!,Negative
+489,Bad experience overall,Neutral
+490,Average experience,Negative
+491,Nothing special,Positive
+492,Product stopped working,Neutral
+493,Could be better,Positive
+494,Great value for money!,Positive
+495,Fantastic experience,Neutral
+496,"Not great, not bad",Negative
+497,Fair enough,Neutral
+498,I liked it,Negative
+499,Very satisfied with the product,Neutral
+500,Very satisfied with the product,Positive
+501,Very disappointing,Negative
+502,"Not great, not bad",Negative
+503,Nothing special,Negative
+504,Very satisfied with the product,Positive
+505,Fair enough,Positive
+506,I love this product!,Positive
+507,Highly recommend this!,Positive
+508,Terrible support,Neutral
+509,It's okay,Negative
+510,Delivery was late,Negative
+511,Could be better,Neutral
+512,Poor quality,Neutral
+513,Worst service ever,Positive
+514,I love this product!,Negative
+515,Very bad experience,Positive
+516,Could be better,Positive
+517,Very bad experience,Positive
+518,Very bad experience,Negative
+519,Terrible support,Positive
+520,Average experience,Positive
+521,Could be better,Negative
+522,I love this product!,Neutral
+523,Worst service ever,Neutral
+524,Nothing special,Neutral
+525,Nothing special,Negative
+526,Excellent service!,Positive
+527,Super fast delivery!,Negative
+528,Very satisfied with the product,Positive
+529,Product stopped working,Negative
+530,Terrible support,Positive
+531,Terrible support,Negative
+532,Excellent service!,Negative
+533,Very disappointing,Negative
+534,Average experience,Negative
+535,Highly recommend this!,Positive
+536,I love this product!,Positive
+537,Fair enough,Positive
+538,Excellent service!,Positive
+539,Amazing quality!,Neutral
+540,Nothing special,Negative
+541,"Not great, not bad",Positive
+542,Worst service ever,Negative
+543,Amazing quality!,Negative
+544,Very bad experience,Positive
+545,Very satisfied with the product,Neutral
+546,Very disappointing,Neutral
+547,Fantastic experience,Neutral
+548,I love this product!,Positive
+549,Not satisfied,Neutral
+550,Poor quality,Neutral
+551,Nothing special,Negative
+552,Poor quality,Neutral
+553,Highly recommend this!,Negative
+554,Great value for money!,Neutral
+555,Fantastic experience,Positive
+556,Average experience,Negative
+557,It's okay,Negative
+558,Could be better,Positive
+559,Super fast delivery!,Positive
+560,Very satisfied with the product,Neutral
+561,Terrible support,Negative
+562,Could be better,Negative
+563,Delivery was late,Neutral
+564,Fantastic experience,Neutral
+565,Product stopped working,Negative
+566,Poor quality,Neutral
+567,Very bad experience,Negative
+568,"Not great, not bad",Positive
+569,Poor quality,Negative
+570,"Not great, not bad",Neutral
+571,Delivery was late,Positive
+572,Amazing quality!,Positive
+573,Highly recommend this!,Neutral
+574,Average experience,Neutral
+575,Not satisfied,Neutral
+576,Terrible support,Neutral
+577,Highly recommend this!,Neutral
+578,Fantastic experience,Negative
+579,Highly recommend this!,Positive
+580,Great value for money!,Positive
+581,Average experience,Negative
+582,Excellent service!,Neutral
+583,Poor quality,Neutral
+584,Average experience,Neutral
+585,Delivery was late,Negative
+586,Excellent service!,Positive
+587,Highly recommend this!,Neutral
+588,Bad experience overall,Negative
+589,Super fast delivery!,Negative
+590,Very disappointing,Neutral
+591,Bad experience overall,Negative
+592,Terrible support,Positive
+593,Very bad experience,Positive
+594,Poor quality,Neutral
+595,Average experience,Neutral
+596,Terrible support,Positive
+597,Amazing quality!,Neutral
+598,Product stopped working,Negative
+599,Great value for money!,Neutral
+600,Delivery was late,Neutral
+601,Nothing special,Neutral
+602,Worst service ever,Positive
+603,Highly recommend this!,Negative
+604,Great value for money!,Positive
+605,Poor quality,Neutral
+606,Very bad experience,Neutral
+607,Fantastic experience,Neutral
+608,Amazing quality!,Neutral
+609,Highly recommend this!,Positive
+610,Product stopped working,Positive
+611,Very disappointing,Neutral
+612,Very satisfied with the product,Negative
+613,Delivery was late,Positive
+614,I love this product!,Positive
+615,It's okay,Positive
+616,It's okay,Negative
+617,Bad experience overall,Positive
+618,Very satisfied with the product,Neutral
+619,Product stopped working,Neutral
+620,Could be better,Negative
+621,Amazing quality!,Negative
+622,I liked it,Negative
+623,Very disappointing,Positive
+624,Product stopped working,Positive
+625,Worst service ever,Negative
+626,Bad experience overall,Positive
+627,Highly recommend this!,Positive
+628,Great value for money!,Negative
+629,"Not great, not bad",Negative
+630,Super fast delivery!,Negative
+631,Fantastic experience,Negative
+632,I liked it,Positive
+633,Very bad experience,Positive
+634,Bad experience overall,Neutral
+635,I liked it,Neutral
+636,Could be better,Negative
+637,Average experience,Neutral
+638,I love this product!,Positive
+639,Terrible support,Neutral
+640,Highly recommend this!,Positive
+641,Very satisfied with the product,Negative
+642,Excellent service!,Positive
+643,Excellent service!,Negative
+644,Super fast delivery!,Neutral
+645,I love this product!,Negative
+646,Worst service ever,Negative
+647,Fantastic experience,Neutral
+648,Product stopped working,Negative
+649,Very satisfied with the product,Positive
+650,Great value for money!,Positive
+651,Terrible support,Neutral
+652,Fair enough,Positive
+653,Very bad experience,Neutral
+654,Average experience,Positive
+655,Bad experience overall,Neutral
+656,Terrible support,Negative
+657,"Not great, not bad",Neutral
+658,Worst service ever,Negative
+659,Fantastic experience,Negative
+660,Nothing special,Positive
+661,Super fast delivery!,Negative
+662,Average experience,Positive
+663,"Not great, not bad",Positive
+664,Could be better,Positive
+665,Excellent service!,Neutral
+666,Very bad experience,Positive
+667,Highly recommend this!,Neutral
+668,Highly recommend this!,Neutral
+669,Bad experience overall,Positive
+670,Not satisfied,Negative
+671,"Not great, not bad",Negative
+672,Fair enough,Negative
+673,Excellent service!,Negative
+674,Fair enough,Neutral
+675,Bad experience overall,Positive
+676,Delivery was late,Negative
+677,Average experience,Negative
+678,Fantastic experience,Neutral
+679,I love this product!,Negative
+680,Not satisfied,Negative
+681,Highly recommend this!,Negative
+682,Fantastic experience,Negative
+683,Terrible support,Negative
+684,Terrible support,Positive
+685,I love this product!,Neutral
+686,It's okay,Negative
+687,I love this product!,Neutral
+688,Excellent service!,Positive
+689,Very satisfied with the product,Positive
+690,Delivery was late,Neutral
+691,Amazing quality!,Negative
+692,I love this product!,Neutral
+693,Bad experience overall,Negative
+694,Very satisfied with the product,Negative
+695,Terrible support,Negative
+696,I liked it,Negative
+697,Great value for money!,Negative
+698,Terrible support,Negative
+699,Not satisfied,Neutral
+700,Excellent service!,Negative
+701,Could be better,Negative
+702,Average experience,Neutral
+703,Terrible support,Positive
+704,Terrible support,Neutral
+705,Fair enough,Positive
+706,I liked it,Negative
+707,Fair enough,Neutral
+708,Fantastic experience,Negative
+709,I liked it,Positive
+710,It's okay,Negative
+711,Product stopped working,Negative
+712,Bad experience overall,Negative
+713,Worst service ever,Neutral
+714,Average experience,Neutral
+715,I love this product!,Positive
+716,Amazing quality!,Neutral
+717,Not satisfied,Positive
+718,Could be better,Positive
+719,"Not great, not bad",Neutral
+720,Very satisfied with the product,Positive
+721,Poor quality,Positive
+722,Average experience,Neutral
+723,Very bad experience,Positive
+724,"Not great, not bad",Positive
+725,I liked it,Neutral
+726,Terrible support,Positive
+727,Worst service ever,Neutral
+728,Bad experience overall,Negative
+729,I liked it,Negative
+730,Worst service ever,Negative
+731,Not satisfied,Negative
+732,Very satisfied with the product,Positive
+733,Worst service ever,Negative
+734,Very satisfied with the product,Neutral
+735,Excellent service!,Neutral
+736,Bad experience overall,Negative
+737,"Not great, not bad",Negative
+738,Amazing quality!,Neutral
+739,I love this product!,Positive
+740,Highly recommend this!,Negative
+741,Bad experience overall,Neutral
+742,Nothing special,Neutral
+743,Fantastic experience,Positive
+744,Very satisfied with the product,Positive
+745,I liked it,Positive
+746,Nothing special,Positive
+747,Excellent service!,Positive
+748,Could be better,Positive
+749,Bad experience overall,Neutral
+750,Great value for money!,Neutral
+751,Poor quality,Negative
+752,Excellent service!,Neutral
+753,Very satisfied with the product,Positive
+754,It's okay,Neutral
+755,Fair enough,Neutral
+756,Fantastic experience,Positive
+757,Fantastic experience,Neutral
+758,I liked it,Positive
+759,Not satisfied,Negative
+760,"Not great, not bad",Positive
+761,Amazing quality!,Positive
+762,Amazing quality!,Negative
+763,I love this product!,Negative
+764,Nothing special,Neutral
+765,Very disappointing,Neutral
+766,Poor quality,Positive
+767,Very satisfied with the product,Positive
+768,Bad experience overall,Neutral
+769,Delivery was late,Neutral
+770,It's okay,Negative
+771,Great value for money!,Positive
+772,Terrible support,Positive
+773,Very satisfied with the product,Positive
+774,Poor quality,Neutral
+775,Terrible support,Neutral
+776,Terrible support,Negative
+777,Nothing special,Negative
+778,Terrible support,Negative
+779,Product stopped working,Negative
+780,Great value for money!,Neutral
+781,Very bad experience,Positive
+782,Highly recommend this!,Negative
+783,I liked it,Negative
+784,Average experience,Negative
+785,Bad experience overall,Neutral
+786,Fantastic experience,Neutral
+787,I love this product!,Positive
+788,Great value for money!,Negative
+789,I liked it,Negative
+790,Could be better,Negative
+791,"Not great, not bad",Negative
+792,"Not great, not bad",Negative
+793,I liked it,Negative
+794,Fantastic experience,Positive
+795,Not satisfied,Neutral
+796,Could be better,Neutral
+797,Very bad experience,Positive
+798,Delivery was late,Neutral
+799,Average experience,Neutral
+800,Fantastic experience,Neutral
+801,I liked it,Positive
+802,It's okay,Neutral
+803,Worst service ever,Neutral
+804,Not satisfied,Positive
+805,"Not great, not bad",Positive
+806,Could be better,Neutral
+807,Terrible support,Positive
+808,Super fast delivery!,Neutral
+809,Fantastic experience,Positive
+810,Could be better,Negative
+811,Product stopped working,Negative
+812,Delivery was late,Neutral
+813,Not satisfied,Neutral
+814,Delivery was late,Negative
+815,Product stopped working,Positive
+816,Fair enough,Neutral
+817,Product stopped working,Negative
+818,Poor quality,Negative
+819,I love this product!,Positive
+820,It's okay,Neutral
+821,Amazing quality!,Negative
+822,Average experience,Negative
+823,Fantastic experience,Neutral
+824,Product stopped working,Neutral
+825,Product stopped working,Neutral
+826,Average experience,Positive
+827,Highly recommend this!,Positive
+828,Excellent service!,Negative
+829,Worst service ever,Negative
+830,I liked it,Positive
+831,Worst service ever,Neutral
+832,Poor quality,Negative
+833,Fantastic experience,Negative
+834,Average experience,Neutral
+835,Highly recommend this!,Negative
+836,Terrible support,Positive
+837,Terrible support,Negative
+838,Worst service ever,Neutral
+839,Worst service ever,Negative
+840,Very satisfied with the product,Neutral
+841,Highly recommend this!,Negative
+842,Super fast delivery!,Negative
+843,Terrible support,Negative
+844,Fair enough,Negative
+845,Terrible support,Negative
+846,Very satisfied with the product,Positive
+847,Very satisfied with the product,Negative
+848,Terrible support,Neutral
+849,Product stopped working,Neutral
+850,Poor quality,Negative
+851,Excellent service!,Positive
+852,Excellent service!,Negative
+853,Not satisfied,Positive
+854,Fantastic experience,Neutral
+855,Nothing special,Positive
+856,Highly recommend this!,Positive
+857,Highly recommend this!,Neutral
+858,Terrible support,Positive
+859,Fantastic experience,Neutral
+860,I love this product!,Neutral
+861,"Not great, not bad",Positive
+862,Delivery was late,Positive
+863,Super fast delivery!,Negative
+864,Not satisfied,Positive
+865,Product stopped working,Negative
+866,Worst service ever,Positive
+867,Worst service ever,Positive
+868,Highly recommend this!,Negative
+869,Great value for money!,Negative
+870,Fair enough,Neutral
+871,Very satisfied with the product,Neutral
+872,Very disappointing,Negative
+873,Product stopped working,Neutral
+874,Could be better,Positive
+875,Very bad experience,Neutral
+876,Fair enough,Neutral
+877,Worst service ever,Positive
+878,I liked it,Neutral
+879,"Not great, not bad",Negative
+880,Fantastic experience,Negative
+881,Very bad experience,Negative
+882,Product stopped working,Neutral
+883,Highly recommend this!,Neutral
+884,I love this product!,Neutral
+885,Worst service ever,Negative
+886,Great value for money!,Positive
+887,Not satisfied,Negative
+888,It's okay,Neutral
+889,Amazing quality!,Neutral
+890,Not satisfied,Negative
+891,Very bad experience,Neutral
+892,Very disappointing,Negative
+893,Highly recommend this!,Positive
+894,I love this product!,Positive
+895,Could be better,Negative
+896,Could be better,Positive
+897,Very satisfied with the product,Positive
+898,It's okay,Neutral
+899,Great value for money!,Negative
+900,Terrible support,Positive
+901,Bad experience overall,Positive
+902,Worst service ever,Positive
+903,Super fast delivery!,Neutral
+904,Fantastic experience,Neutral
+905,Very satisfied with the product,Negative
+906,Highly recommend this!,Negative
+907,Very disappointing,Neutral
+908,Very satisfied with the product,Negative
+909,Excellent service!,Neutral
+910,Very bad experience,Negative
+911,Very satisfied with the product,Negative
+912,Average experience,Positive
+913,It's okay,Positive
+914,"Not great, not bad",Negative
+915,I love this product!,Positive
+916,Not satisfied,Negative
+917,Product stopped working,Negative
+918,Nothing special,Positive
+919,Very bad experience,Positive
+920,Excellent service!,Negative
+921,I love this product!,Neutral
+922,Highly recommend this!,Neutral
+923,Average experience,Neutral
+924,Poor quality,Negative
+925,Very satisfied with the product,Positive
+926,Fantastic experience,Negative
+927,Very disappointing,Neutral
+928,Fantastic experience,Positive
+929,Very satisfied with the product,Neutral
+930,Product stopped working,Negative
+931,Great value for money!,Negative
+932,Amazing quality!,Positive
+933,I liked it,Negative
+934,Highly recommend this!,Negative
+935,Could be better,Positive
+936,It's okay,Neutral
+937,Could be better,Neutral
+938,Worst service ever,Neutral
+939,It's okay,Positive
+940,"Not great, not bad",Neutral
+941,Poor quality,Positive
+942,Fair enough,Negative
+943,Fair enough,Negative
+944,Very bad experience,Negative
+945,Very bad experience,Neutral
+946,It's okay,Neutral
+947,Could be better,Negative
+948,I liked it,Positive
+949,Average experience,Positive
+950,Poor quality,Negative
+951,Fair enough,Negative
+952,"Not great, not bad",Negative
+953,Product stopped working,Positive
+954,Excellent service!,Negative
+955,Fantastic experience,Positive
+956,Very disappointing,Neutral
+957,Highly recommend this!,Positive
+958,Worst service ever,Negative
+959,I love this product!,Positive
+960,Worst service ever,Neutral
+961,Highly recommend this!,Positive
+962,Super fast delivery!,Negative
+963,Terrible support,Neutral
+964,I love this product!,Positive
+965,I love this product!,Neutral
+966,Super fast delivery!,Negative
+967,Super fast delivery!,Neutral
+968,Product stopped working,Positive
+969,Very bad experience,Positive
+970,Amazing quality!,Neutral
+971,I liked it,Neutral
+972,It's okay,Positive
+973,Very disappointing,Positive
+974,Average experience,Neutral
+975,Highly recommend this!,Neutral
+976,"Not great, not bad",Positive
+977,Great value for money!,Positive
+978,Not satisfied,Negative
+979,Average experience,Positive
+980,It's okay,Neutral
+981,I love this product!,Positive
+982,Poor quality,Neutral
+983,Poor quality,Positive
+984,Very bad experience,Positive
+985,Average experience,Positive
+986,Not satisfied,Positive
+987,Very disappointing,Negative
+988,Poor quality,Negative
+989,Very bad experience,Positive
+990,Highly recommend this!,Neutral
+991,Bad experience overall,Neutral
+992,Product stopped working,Negative
+993,Poor quality,Neutral
+994,Terrible support,Negative
+995,Poor quality,Positive
+996,Very satisfied with the product,Positive
+997,"Not great, not bad",Neutral
+998,I liked it,Negative
+999,Nothing special,Negative
+1000,Nothing special,Positive
